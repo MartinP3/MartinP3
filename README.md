@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 Check out my current Portfolio here: https://gleeful-scone-bbd78e.netlify.app/
+
+https://github-readme-stats.vercel.app/api?username=MartinP3)
