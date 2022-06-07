@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 Check out my current Portfolio here: https://gleeful-scone-bbd78e.netlify.app/
 
+
+### Peep my stats!
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinP3&show_icons=true&theme=radical)
