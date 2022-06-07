@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-Check out my current Portfolio here: https://gleeful-scone-bbd78e.netlify.app/
+Check out my current portfolio here: https://gleeful-scone-bbd78e.netlify.app/
 
 - 🔭 I’m currently working on: my portfolio!
 - 🌱 I’m currently learning:
