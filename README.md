@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working on: my portfolio!
-
-
+- Check it out here: https://gleeful-scone-bbd78e.netlify.app/
 - 🌱 I’m currently learning:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 
