@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 Check out my current Portfolio here: https://gleeful-scone-bbd78e.netlify.app/
 
-https://github-readme-stats.vercel.app/api?username=MartinP3)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinP3)](https://github.com/MartinP3/github-readme-stats)
