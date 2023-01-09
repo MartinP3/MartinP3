@@ -17,7 +17,7 @@ Check out my current portfolio here: https://gleeful-scone-bbd78e.netlify.app/
 - 🔭 I’m currently working on: my portfolio!
 - 🌱 I’m currently learning:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-- 🥅 My goals for 2022 are: Learning more javascript frameworks and how to make websites even prettier and accessible for everyone.
+- 🥅 My goals for 2023 are: Learning more javascript frameworks and how to make websites even prettier and accessible for everyone.
 
 ### Peep my stats!
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinP3&show_icons=true&theme=radical)
