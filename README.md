@@ -21,6 +21,3 @@ Check out my current portfolio here: https://gleeful-scone-bbd78e.netlify.app/
 
 ### Peep my stats!
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinP3&show_icons=true&theme=radical)
-
-### Have a corny joke ;)
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
