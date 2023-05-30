@@ -10,14 +10,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Hello!
 
-Check out my current portfolio here: https://gleeful-scone-bbd78e.netlify.app/
+Check out my current portfolio here, it will be updated soon! https://gleeful-scone-bbd78e.netlify.app/
 
-- 🔭 I’m currently working on: my portfolio!
-- 🌱 I’m currently learning:
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-- 🥅 My goals for 2023 are: Learning more javascript frameworks and how to make websites even prettier and accessible for everyone.
+- I’m currently working on: Fixing my older projects
+- I'm proficient in HTML, CSS, JS and various CSS frameworks such as Tailwind and Bootstrap
+- I’m currently learning: React
 
-### Peep my stats!
+### My stats
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinP3&show_icons=true&theme=radical)
