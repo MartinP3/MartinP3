@@ -16,7 +16,7 @@ Check out my current portfolio here, it will be updated soon! https://gleeful-sc
 
 - I’m currently working on: Fixing my older projects
 - I'm proficient in HTML, CSS, JS and various CSS frameworks such as Tailwind and Bootstrap
-- I’m currently learning: React
+- I’m currently learning: React and trying to dabble in Svelte
 
 ### My stats
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinP3&show_icons=true&theme=radical)
