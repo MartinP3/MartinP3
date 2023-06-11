@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ### Hello!
 
-Check out my current portfolio here, it will be updated soon! https://gleeful-scone-bbd78e.netlify.app/
+Check out my current portfolio [here](https://martinp3-portfolio.netlify.app/)
 
 - I’m currently working on: Fixing my older projects
 - I'm proficient in HTML, CSS, JS and various CSS frameworks such as Tailwind and Bootstrap
